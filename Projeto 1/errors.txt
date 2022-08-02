@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 1: expected statement.
+    from email.policy import default
+              ^
+
+File "game/script.rpy", line 2: expected statement.
+    from subprocess import call
+                           ^
+
+File "game/script.rpy", line 23: Line is indented, but the preceding show screen statement statement does not expect a block. Please check this line's indentation.
+    zoom 2
+    ^
+
+Ren'Py Version: Ren'Py 8.0.1.22070801
+Mon Aug  1 22:12:19 2022
